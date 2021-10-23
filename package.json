@@ -1,0 +1,24 @@
+{
+  "name": "abxenimart",
+  "version": "1.0.0",
+  "description": "MERN Stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abxeni/abxeniMart.git"
+  },
+  "author": "Abhi Nemade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abxeni/abxeniMart/issues"
+  },
+  "homepage": "https://github.com/abxeni/abxeniMart#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1"
+  }
+}
